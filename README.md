@@ -19,7 +19,7 @@ Visual Studio version used for development: Microsoft Visual Studio Community 20
 .NET Core version : v6.0.16 
 
 #To run the test cases in Visual Studio:
-1) Open the solution file _(PaylocityBackEndChallengeSeed\PaylocityBackEndChallengeSeed\PaylocityBenefitsCalculator\PaylocityBenefitsCalculator.sln)_ in the repo using Visual Studio.
+1) Open the solution file _(PaylocityBenefitsCalculator.sln)_ in the repo using Visual Studio.
 2) Run the API project, which will start the application server hosting the application.
 3) Go to  Debug -> "Detach All" to detach the App server process.
 4) Run the APITests project to run all the tests.
